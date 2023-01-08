@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient990">
+      <stop
+         style="stop-color:#0f7c94;stop-opacity:1;"
+         offset="0"
+         id="stop986" />
+      <stop
+         style="stop-color:#32725e;stop-opacity:1;"
+         offset="1"
+         id="stop988" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient872">
+      <stop
+         style="stop-color:#119bb9;stop-opacity:1;"
+         offset="0"
+         id="stop868" />
+      <stop
+         style="stop-color:#41957b;stop-opacity:1;"
+         offset="1"
+         id="stop870" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient872"
+       id="linearGradient874"
+       x1="-26.820868"
+       y1="217.69063"
+       x2="65.042282"
+       y2="164.65341"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient990"
+       id="linearGradient973"
+       gradientUnits="userSpaceOnUse"
+       x1="-28.818707"
+       y1="164.66528"
+       x2="65.021713"
+       y2="164.66528" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter982"
+       x="-0.067862891"
+       y="-0.063178197"
+       width="1.1357259"
+       height="1.1263564">
+      <feGaussianBlur
+         stdDeviation="1.3672153"
+         id="feGaussianBlur984" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill:none;stroke:url(#linearGradient874);stroke-width:15.4348;stroke-dasharray:none"
+       id="path111"
+       d="m 65.021713,137.57589 0,54.17879 -46.920209,27.08939 -46.92021,-27.08939 0,-54.17879 46.920209,-27.0894 z"
+       transform="matrix(1.5358677,0,0,1.5358677,72.198486,-152.90409)" />
+  </g>
+  <path
+     style="display:none;opacity:1;mix-blend-mode:normal;fill:none;stroke:url(#linearGradient973);stroke-width:6.17393;stroke-dasharray:none;filter:url(#filter982)"
+     id="path111-7"
+     d="m 65.021713,137.57589 0,54.17879 -46.920209,27.08939 -46.92021,-27.08939 0,-54.17879 46.920209,-27.0894 z"
+     transform="matrix(1.3736026,0,0,1.3806859,75.135723,-127.35103)" />
+</svg>

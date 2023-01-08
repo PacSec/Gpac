@@ -1,0 +1,11 @@
+DELAY=3
+
+systemctl disable --now usbguard 1> /dev/null;
+read -p "Re-attach usb device and press ENTER > ";
+usbguard generate-policy > rules.conf;
+cp rules.conf /etc/usbguard/ 1> /dev/null;
+chmod 0600 /etc/usbguard/rules.conf 1> /dev/null;
+rm rules.conf 1> /dev/null;
+systemctl enable --now usbguard 1> /dev/null
+echo "USBGuard - [OK]"
+sleep $DELAY
