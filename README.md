@@ -39,7 +39,7 @@
 git clone https://github.com/PacSec/Gpac
 cd Gpac
 ./get_deps.sh
-sudo ./mkiso ./profile
+sudo ./mkiso ./tmp/profile -v
 ```
 
 Для записи на flash-накопитель с encrypted persistence выполните:
